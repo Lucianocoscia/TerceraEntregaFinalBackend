@@ -1,0 +1,27 @@
+<div style="display:flex ; flex-direction: column; justify-content:center ; align-items: center; background-color:#E9ECEF ; width: 500px; height: 500px;" class="text-center">
+    <h1 style="color: blue;">Carga tus productos</h1>
+    <form id="productForm" style="display:flex ; flex-direction: column; justify-content: center; align-items: center; width: 500px;  " >
+        <input id="productInput" class="form-control m-1" type="text" name="name" placeholder="Nombre" />
+        <input id="priceInput" class="form-control m-1" type="number" name="price" placeholder="Precio" />
+        <input id="imgInput" class="form-control m-1" type="text" name="thumbnail" placeholder="Thumbnail" />
+        <input class="btn btn-primary" type="submit" value="Cargar Producto" />
+    </form>
+</div>
+<div >
+
+    <table class="container mt-3 table table-dark">
+    <thead>
+        <tr>
+            <th>Nombre:</th>
+            <th>Precio:</th>
+            <th>Imagen:</th>
+        </tr>
+    </thead>
+    <tbody id="productsContainer">
+
+    </tbody>
+    </table>
+</div>
+
+{{> chat}}
+

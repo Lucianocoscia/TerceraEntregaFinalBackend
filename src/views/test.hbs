@@ -1,0 +1,21 @@
+
+
+    <table class="container mt-3 table table-dark">
+    <thead>
+        <tr>
+            <th>Nombre:</th>
+            <th>Precio:</th>
+            <th>Imagen:</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#each items}}
+
+                    <tr >
+                        <td>{{this.title}}</td>
+                        <td>{{this.price}}</td>
+                        <td><img src="{{this.thumbnail}}" alt="{{this.thumbnail}}" width="100px" height="100px"></td>
+                    </tr>
+        {{/each}}
+    </tbody>
+    </table>

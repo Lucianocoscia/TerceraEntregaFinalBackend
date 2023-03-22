@@ -1,0 +1,43 @@
+<div class="container text-center my-3">
+    <div class="jumbotron" style="background-color: green;color: white;">
+        <h2><i>Bienvenido {{user.username}}</i></h2>
+        <br>
+        <h3>Nombre: {{user.firstname}}</h3>
+        <h3>Apellido: {{user.lastname}}</h3>
+        <h3>Email: {{user.email}}</h3>
+        <h3>Tel: {{user.phone}}</h3>
+        <h3>Direccion: {{user.address}}</h3>
+        <h3>Edad: {{user.age}}</h3>
+        <img style="width: 200px" src="/{{user.photo}}" alt="Imagen subida">
+
+        <form action="/logout" method="get">
+            <input class="btn btn-danger my-5" type="submit" value="LOGOUT">
+        </form>
+    </div>
+</div>
+
+<div style="  width: 100%;">
+    <h2 style="text-decoration: underline; text-align: center;">Mi carrito</h2>
+
+    <ul style="display: flex; flex-wrap: wrap;">
+        {{#if cart.products.length}}
+        {{#each cart.products}}
+        <div style="display:inline-flex ; flex-direction: column ; justify-content: center; align-items: center;">
+            <h2>{{this.title}}</h2>
+            <img src="{{this.thumbnail}}" alt="imagenProducto" width="100">
+            <p>${{this.price}}</p>
+        </div>
+        
+        {{/each}}
+        {{/if}}
+    </ul>
+    <hr>
+    {{#with cart}}
+    <form action="/cart/finish/{{this._id}}" method="POST">
+        <button type="submit" name="buy">Comprar</button>
+    </form>
+    {{/with}}
+</div>
+<h3>Lista de productos</h3>
+
+<div style="display: flex;  justify-content: center; align-items: center;" id="productsContainer"></div>

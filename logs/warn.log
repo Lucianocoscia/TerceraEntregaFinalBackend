@@ -1,0 +1,1182 @@
+{"level":40,"time":1679415009416,"pid":34488,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679415009417,"pid":34488,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679423204743,"pid":31020,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679423204744,"pid":31020,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679423210821,"pid":31020,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679423210821,"pid":31020,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":50,"time":1679423662893,"pid":34908,"hostname":"Pavilion15","err":{"type":"TypeError","message":"Cannot destructure property 'user' of 'req.session.passport' as it is undefined.","stack":"TypeError: Cannot destructure property 'user' of 'req.session.passport' as it is undefined.\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:40:13\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:47:12)"},"msg":"Cannot destructure property 'user' of 'req.session.passport' as it is undefined."}
+{"level":50,"time":1679424248572,"pid":33316,"hostname":"Pavilion15","err":{"type":"TypeError","message":"Cannot destructure property 'user' of 'req.session.passport' as it is undefined.","stack":"TypeError: Cannot destructure property 'user' of 'req.session.passport' as it is undefined.\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:40:13\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:47:12)"},"msg":"Cannot destructure property 'user' of 'req.session.passport' as it is undefined."}
+{"level":40,"time":1679424312792,"pid":1676,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679424312792,"pid":1676,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679424318917,"pid":1676,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679424318917,"pid":1676,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679424388346,"pid":21292,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679424388347,"pid":21292,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":50,"time":1679424389306,"pid":21292,"hostname":"Pavilion15","err":{"type":"TypeError","message":"Cannot destructure property 'user' of 'req.session.passport' as it is undefined.","stack":"TypeError: Cannot destructure property 'user' of 'req.session.passport' as it is undefined.\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:40:13\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:47:12)"},"msg":"Cannot destructure property 'user' of 'req.session.passport' as it is undefined."}
+{"level":40,"time":1679424396433,"pid":21292,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679424396433,"pid":21292,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679424400848,"pid":21292,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679424400848,"pid":21292,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679424442826,"pid":29876,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679424442827,"pid":29876,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":50,"time":1679425331253,"pid":34068,"hostname":"Pavilion15","err":{"type":"MongooseError","message":"Operation `users.findOne()` buffering timed out after 10000ms","stack":"MongooseError: Operation `users.findOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:185:23)\n    at listOnTimeout (node:internal/timers:559:17)\n    at processTimers (node:internal/timers:502:7)"},"msg":"Operation `users.findOne()` buffering timed out after 10000ms"}
+{"level":40,"time":1679429822188,"pid":29524,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679429822188,"pid":29524,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679429822451,"pid":29524,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679429822452,"pid":29524,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679429824025,"pid":29524,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679429824025,"pid":29524,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":50,"time":1679429849822,"pid":29524,"hostname":"Pavilion15","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'filename')","stack":"TypeError: Cannot read properties of undefined (reading 'filename')\n    at Strategy._verify (file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/lib/passport.lib.js:51:25)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"},"msg":"Cannot read properties of undefined (reading 'filename')"}
+{"level":50,"time":1679430020453,"pid":34076,"hostname":"Pavilion15","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'photo')","stack":"TypeError: Cannot read properties of undefined (reading 'photo')\n    at Strategy._verify (file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/lib/passport.lib.js:51:25)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"},"msg":"Cannot read properties of undefined (reading 'photo')"}
+{"level":40,"time":1679430210445,"pid":9796,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430210445,"pid":9796,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679430213208,"pid":9796,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430213208,"pid":9796,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679430213376,"pid":9796,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430213376,"pid":9796,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679430213555,"pid":9796,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430213555,"pid":9796,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679430223774,"pid":9796,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430223774,"pid":9796,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679430223877,"pid":9796,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430223877,"pid":9796,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679430223996,"pid":9796,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430223996,"pid":9796,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679430266110,"pid":31940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430266110,"pid":31940,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679430266183,"pid":31940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430266183,"pid":31940,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679430272086,"pid":31940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430272086,"pid":31940,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679430274199,"pid":31940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430274199,"pid":31940,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679430275384,"pid":31940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430275384,"pid":31940,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679430313113,"pid":31940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430313113,"pid":31940,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679430315788,"pid":31940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430315788,"pid":31940,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679430315864,"pid":31940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430315864,"pid":31940,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679430315975,"pid":31940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430315975,"pid":31940,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679430343578,"pid":31940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430343578,"pid":31940,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679430343720,"pid":31940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430343720,"pid":31940,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679430343837,"pid":31940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430343837,"pid":31940,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679430345750,"pid":31940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430345750,"pid":31940,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679430348488,"pid":31940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430348488,"pid":31940,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679430348586,"pid":31940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430348587,"pid":31940,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679430348697,"pid":31940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430348697,"pid":31940,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679430351995,"pid":31940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430351995,"pid":31940,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679430352030,"pid":31940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430352030,"pid":31940,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679430361203,"pid":31940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430361203,"pid":31940,"hostname":"Pavilion15","method":"GET","url":"/bienvenida"}
+{"level":40,"time":1679430361402,"pid":31940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430361402,"pid":31940,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679430779920,"pid":29720,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430779921,"pid":29720,"hostname":"Pavilion15","method":"GET","url":"/undefined"}
+{"level":40,"time":1679430780036,"pid":29720,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430780036,"pid":29720,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679430782410,"pid":29720,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430782410,"pid":29720,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679430782534,"pid":29720,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430782534,"pid":29720,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679430782650,"pid":29720,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430782650,"pid":29720,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679430806046,"pid":29720,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430806046,"pid":29720,"hostname":"Pavilion15","method":"GET","url":"/undefined"}
+{"level":40,"time":1679430806163,"pid":29720,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430806163,"pid":29720,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679430807627,"pid":29720,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430807627,"pid":29720,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679430809764,"pid":29720,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430809764,"pid":29720,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679430849301,"pid":31320,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430849302,"pid":31320,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679430870069,"pid":31320,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430870069,"pid":31320,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679430872848,"pid":31320,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430872848,"pid":31320,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679430872992,"pid":31320,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430872992,"pid":31320,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679430873404,"pid":31320,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679430873404,"pid":31320,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679431007097,"pid":34644,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431007098,"pid":34644,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679431013939,"pid":34644,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431013939,"pid":34644,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679431016050,"pid":34644,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431016050,"pid":34644,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679431022338,"pid":34644,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431022338,"pid":34644,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679431032491,"pid":34644,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431032491,"pid":34644,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679431032877,"pid":34644,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431032877,"pid":34644,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679431032988,"pid":34644,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431032989,"pid":34644,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679431137092,"pid":11812,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431137093,"pid":11812,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679431155348,"pid":11812,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431155349,"pid":11812,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679431157456,"pid":11812,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431157456,"pid":11812,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679431158616,"pid":11812,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431158616,"pid":11812,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679431160523,"pid":11812,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431160523,"pid":11812,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679431168975,"pid":11812,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431168975,"pid":11812,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679431179135,"pid":11812,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431179135,"pid":11812,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679431179219,"pid":11812,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431179219,"pid":11812,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679431179567,"pid":11812,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431179567,"pid":11812,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679431272564,"pid":11812,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431272565,"pid":11812,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679431272639,"pid":11812,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431272639,"pid":11812,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679431272750,"pid":11812,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431272750,"pid":11812,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679431285606,"pid":35588,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431285606,"pid":35588,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679431314292,"pid":29896,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431314292,"pid":29896,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679431382559,"pid":29896,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431382559,"pid":29896,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679431382796,"pid":29896,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431382796,"pid":29896,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679431382958,"pid":29896,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431382958,"pid":29896,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679431386475,"pid":29896,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431386475,"pid":29896,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679431386562,"pid":29896,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431386562,"pid":29896,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679431386671,"pid":29896,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431386671,"pid":29896,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679431540412,"pid":32372,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431540413,"pid":32372,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679431572657,"pid":26900,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431572657,"pid":26900,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679431614751,"pid":11100,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431614751,"pid":11100,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679431650925,"pid":27432,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431650926,"pid":27432,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679431707858,"pid":6128,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431707859,"pid":6128,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679431775052,"pid":12108,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431775052,"pid":12108,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679431818964,"pid":30172,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431818964,"pid":30172,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679431832315,"pid":33484,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431832315,"pid":33484,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679431864306,"pid":34180,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679431864307,"pid":34180,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432017773,"pid":34180,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432017773,"pid":34180,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679432017886,"pid":34180,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432017886,"pid":34180,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432017995,"pid":34180,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432017995,"pid":34180,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":50,"time":1679432051204,"pid":34180,"hostname":"Pavilion15","err":{"type":"ReferenceError","message":"api is not defined","stack":"ReferenceError: api is not defined\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:46:39\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:47:12)"},"msg":"api is not defined"}
+{"level":40,"time":1679432089284,"pid":34180,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432089284,"pid":34180,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":50,"time":1679432123759,"pid":26056,"hostname":"Pavilion15","err":{"type":"ReferenceError","message":"productApi is not defined","stack":"ReferenceError: productApi is not defined\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:46:39\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:47:12)"},"msg":"productApi is not defined"}
+{"level":40,"time":1679432124057,"pid":26056,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432124057,"pid":26056,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432149667,"pid":29424,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432149667,"pid":29424,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432149707,"pid":29424,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432149708,"pid":29424,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432159630,"pid":29424,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432159630,"pid":29424,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679432159705,"pid":29424,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432159705,"pid":29424,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432159818,"pid":29424,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432159818,"pid":29424,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432172518,"pid":29424,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432172518,"pid":29424,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679432172630,"pid":29424,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432172630,"pid":29424,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432172744,"pid":29424,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432172744,"pid":29424,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432176622,"pid":29424,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432176622,"pid":29424,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432176668,"pid":29424,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432176668,"pid":29424,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432177665,"pid":29424,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432177665,"pid":29424,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432177733,"pid":29424,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432177733,"pid":29424,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432233639,"pid":17396,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432233639,"pid":17396,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432356912,"pid":28460,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432356913,"pid":28460,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432378098,"pid":28460,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432378098,"pid":28460,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432378387,"pid":28460,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432378387,"pid":28460,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679432401351,"pid":28460,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432401351,"pid":28460,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679432401451,"pid":28460,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432401451,"pid":28460,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432401463,"pid":28460,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432401463,"pid":28460,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679432401814,"pid":28460,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432401814,"pid":28460,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432531465,"pid":28460,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432531465,"pid":28460,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432533580,"pid":28460,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432533580,"pid":28460,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432534787,"pid":28460,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432534787,"pid":28460,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":50,"time":1679432558220,"pid":28460,"hostname":"Pavilion15","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'filename')","stack":"TypeError: Cannot read properties of undefined (reading 'filename')\n    at Strategy._verify (file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/lib/passport.lib.js:51:25)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"},"msg":"Cannot read properties of undefined (reading 'filename')"}
+{"level":40,"time":1679432585383,"pid":27088,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432585383,"pid":27088,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432595564,"pid":27088,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432595564,"pid":27088,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679432595964,"pid":27088,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432595964,"pid":27088,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432595980,"pid":27088,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432595981,"pid":27088,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679432596088,"pid":27088,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432596088,"pid":27088,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432612880,"pid":27088,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432612880,"pid":27088,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432621971,"pid":27088,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432621972,"pid":27088,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432622007,"pid":27088,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432622007,"pid":27088,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432622011,"pid":27088,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432622011,"pid":27088,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679432676225,"pid":21744,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432676225,"pid":21744,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679432676540,"pid":21744,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432676540,"pid":21744,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432813087,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432813087,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432815394,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432815394,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432817518,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432817518,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432819289,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432819289,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432846020,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432846020,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432856193,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432856193,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679432856267,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432856267,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432856545,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432856545,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679432856646,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432856646,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432871379,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432871380,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679432871457,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432871457,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432871464,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432871464,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679432871569,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432871569,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432878010,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432878010,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432886110,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432886110,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432886157,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432886157,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432886162,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432886162,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679432888284,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432888284,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432890394,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432890395,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432897435,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432897435,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432907594,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432907594,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679432907726,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432907726,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679432907728,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432907728,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432907837,"pid":34844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432907837,"pid":34844,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432926682,"pid":30120,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432926682,"pid":30120,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432926942,"pid":30120,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432926942,"pid":30120,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679432928958,"pid":30120,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432928958,"pid":30120,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679432929027,"pid":30120,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432929027,"pid":30120,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432929031,"pid":30120,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432929031,"pid":30120,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679432929409,"pid":30120,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432929409,"pid":30120,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432945918,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432945919,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432946178,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432946178,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679432980121,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432980121,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679432990323,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432990323,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679432990409,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432990409,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679432990411,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432990411,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679432990848,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679432990848,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679433002325,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679433002325,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679433002413,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679433002413,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679433002425,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679433002425,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679433002547,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679433002547,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679433036186,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679433036186,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679433036288,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679433036288,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679433036290,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679433036290,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679433036409,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679433036409,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679433036942,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679433036942,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679433036984,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679433036984,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679433036994,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679433036994,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679433042927,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679433042927,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679433044864,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679433044865,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679433046971,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679433046971,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679433051898,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679433051898,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679433062085,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679433062085,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679433062215,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679433062215,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679433062218,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679433062218,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679433062328,"pid":18828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679433062328,"pid":18828,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679434722493,"pid":30708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434722493,"pid":30708,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679434722732,"pid":30708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434722732,"pid":30708,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679434722737,"pid":30708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434722737,"pid":30708,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679434722901,"pid":30708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434722901,"pid":30708,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679434730591,"pid":30708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434730591,"pid":30708,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679434730616,"pid":30708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434730616,"pid":30708,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679434730730,"pid":30708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434730730,"pid":30708,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679434730916,"pid":30708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434730916,"pid":30708,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679434731025,"pid":30708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434731026,"pid":30708,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679434806206,"pid":30708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434806206,"pid":30708,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679434806237,"pid":30708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434806237,"pid":30708,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679434806545,"pid":30708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434806545,"pid":30708,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679434806654,"pid":30708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434806654,"pid":30708,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679434817916,"pid":30708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434817916,"pid":30708,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679434817924,"pid":30708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434817924,"pid":30708,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679434817936,"pid":30708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434817936,"pid":30708,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679434818039,"pid":30708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434818039,"pid":30708,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679434818148,"pid":30708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434818148,"pid":30708,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679434873744,"pid":4124,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434873745,"pid":4124,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679434874010,"pid":4124,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434874010,"pid":4124,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679434878510,"pid":35024,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434878510,"pid":35024,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679434878783,"pid":35024,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434878783,"pid":35024,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679434889199,"pid":35024,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434889199,"pid":35024,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679434889204,"pid":35024,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434889204,"pid":35024,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679434889484,"pid":35024,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434889484,"pid":35024,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679434889603,"pid":35024,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434889603,"pid":35024,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679434929328,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434929328,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679434929578,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434929578,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679434941771,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434941771,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679434941828,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434941828,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679434941832,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434941832,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679434951709,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434951709,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679434951747,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434951748,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679434951751,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434951751,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679434980958,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434980958,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679434980961,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434980961,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679434980981,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434980981,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679434981088,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434981088,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679434981130,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434981130,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679434981240,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434981240,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679434981285,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434981286,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679434981351,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434981351,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679434981491,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434981492,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679434988497,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434988497,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679434988510,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434988510,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679434988525,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434988525,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679434988805,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434988805,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679434988885,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434988885,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679434988889,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434988889,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679434988992,"pid":30792,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679434988992,"pid":30792,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679435078636,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435078637,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679435078807,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435078807,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679435078896,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435078897,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679435078905,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435078905,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679435078958,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435078959,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679435078998,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435078998,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679435079143,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435079143,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679435079265,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435079265,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679435079407,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435079408,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679435083678,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435083678,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679435083691,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435083691,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679435083811,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435083811,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679435083992,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435083992,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679435084024,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435084024,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679435084132,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435084132,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679435163121,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435163121,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679435163132,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435163132,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679435163135,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435163135,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679435163255,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435163255,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679435165549,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435165549,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679435167673,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435167673,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679435169004,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435169004,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679435199906,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435199906,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679435210103,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435210103,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679435210118,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435210118,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679435210121,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435210121,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679435210124,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435210124,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679435210275,"pid":31156,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435210275,"pid":31156,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":50,"time":1679435229802,"pid":34756,"hostname":"Pavilion15","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'username')","stack":"TypeError: Cannot read properties of undefined (reading 'username')\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:59:22\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:47:12)"},"msg":"Cannot read properties of undefined (reading 'username')"}
+{"level":40,"time":1679435250711,"pid":34756,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435250711,"pid":34756,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679435250971,"pid":34756,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435250971,"pid":34756,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679435251004,"pid":34756,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435251004,"pid":34756,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":50,"time":1679435271884,"pid":35636,"hostname":"Pavilion15","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'username')","stack":"TypeError: Cannot read properties of undefined (reading 'username')\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:59:22\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:47:12)"},"msg":"Cannot read properties of undefined (reading 'username')"}
+{"level":50,"time":1679435275269,"pid":35636,"hostname":"Pavilion15","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'username')","stack":"TypeError: Cannot read properties of undefined (reading 'username')\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:59:22\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:47:12)"},"msg":"Cannot read properties of undefined (reading 'username')"}
+{"level":50,"time":1679435302430,"pid":27772,"hostname":"Pavilion15","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'username')","stack":"TypeError: Cannot read properties of undefined (reading 'username')\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:59:22\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:47:12)"},"msg":"Cannot read properties of undefined (reading 'username')"}
+{"level":40,"time":1679435316792,"pid":33524,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435316793,"pid":33524,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679435316813,"pid":33524,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435316813,"pid":33524,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679435317044,"pid":33524,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435317044,"pid":33524,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679435317119,"pid":33524,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435317119,"pid":33524,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679435317123,"pid":33524,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435317123,"pid":33524,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679435317232,"pid":33524,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435317232,"pid":33524,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679435845207,"pid":33524,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435845207,"pid":33524,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679435845220,"pid":33524,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435845220,"pid":33524,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679435845593,"pid":33524,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435845593,"pid":33524,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679435845618,"pid":33524,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435845618,"pid":33524,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679435845720,"pid":33524,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435845720,"pid":33524,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679435895101,"pid":33524,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435895101,"pid":33524,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679435895109,"pid":33524,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435895109,"pid":33524,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679435895397,"pid":33524,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435895397,"pid":33524,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679435895401,"pid":33524,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435895401,"pid":33524,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679435895527,"pid":33524,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435895527,"pid":33524,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":50,"time":1679435921411,"pid":7468,"hostname":"Pavilion15","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'username')","stack":"TypeError: Cannot read properties of undefined (reading 'username')\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:59:22\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:47:12)"},"msg":"Cannot read properties of undefined (reading 'username')"}
+{"level":40,"time":1679435940967,"pid":7468,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435940968,"pid":7468,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679435941233,"pid":7468,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435941233,"pid":7468,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679435941240,"pid":7468,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435941240,"pid":7468,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679435961372,"pid":34136,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435961373,"pid":34136,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679435961424,"pid":34136,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435961424,"pid":34136,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679435961647,"pid":34136,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435961647,"pid":34136,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679435961656,"pid":34136,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435961656,"pid":34136,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679435961768,"pid":34136,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435961768,"pid":34136,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679435968108,"pid":30552,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435968109,"pid":30552,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679435968127,"pid":30552,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435968127,"pid":30552,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679435968339,"pid":30552,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435968340,"pid":30552,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679435968347,"pid":30552,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435968347,"pid":30552,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679435968503,"pid":30552,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435968503,"pid":30552,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679435976363,"pid":32920,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435976364,"pid":32920,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679435976622,"pid":32920,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435976622,"pid":32920,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679435976625,"pid":32920,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435976625,"pid":32920,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679435988369,"pid":28284,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435988370,"pid":28284,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679435988542,"pid":28284,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435988542,"pid":28284,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679435988548,"pid":28284,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435988548,"pid":28284,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679435988577,"pid":28284,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435988577,"pid":28284,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679435989013,"pid":28284,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679435989013,"pid":28284,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":50,"time":1679436007502,"pid":34548,"hostname":"Pavilion15","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'username')","stack":"TypeError: Cannot read properties of undefined (reading 'username')\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:59:22\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:47:12)"},"msg":"Cannot read properties of undefined (reading 'username')"}
+{"level":50,"time":1679436022908,"pid":34384,"hostname":"Pavilion15","err":{"type":"TypeError","message":"Cannot destructure property 'user' of 'req.session.passport.user.username' as it is undefined.","stack":"TypeError: Cannot destructure property 'user' of 'req.session.passport.user.username' as it is undefined.\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:56:13\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:47:12)"},"msg":"Cannot destructure property 'user' of 'req.session.passport.user.username' as it is undefined."}
+{"level":50,"time":1679436036224,"pid":31512,"hostname":"Pavilion15","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'username')","stack":"TypeError: Cannot read properties of undefined (reading 'username')\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:59:22\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:47:12)"},"msg":"Cannot read properties of undefined (reading 'username')"}
+{"level":50,"time":1679436039041,"pid":31512,"hostname":"Pavilion15","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'username')","stack":"TypeError: Cannot read properties of undefined (reading 'username')\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:59:22\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:47:12)"},"msg":"Cannot read properties of undefined (reading 'username')"}
+{"level":40,"time":1679436052639,"pid":31512,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436052639,"pid":31512,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679436053011,"pid":31512,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436053011,"pid":31512,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679436053021,"pid":31512,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436053021,"pid":31512,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679436073717,"pid":33500,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436073718,"pid":33500,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679436073904,"pid":33500,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436073904,"pid":33500,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679436073974,"pid":33500,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436073974,"pid":33500,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679436073977,"pid":33500,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436073977,"pid":33500,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679436074207,"pid":33500,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436074207,"pid":33500,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679436074213,"pid":33500,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436074214,"pid":33500,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679436074226,"pid":33500,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436074226,"pid":33500,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679436074360,"pid":33500,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436074360,"pid":33500,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679436669327,"pid":30920,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436669327,"pid":30920,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679436669634,"pid":30920,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436669634,"pid":30920,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679436669638,"pid":30920,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436669638,"pid":30920,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679436715910,"pid":36652,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436715911,"pid":36652,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679436716217,"pid":36652,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436716217,"pid":36652,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679436716220,"pid":36652,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436716220,"pid":36652,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":50,"time":1679436733318,"pid":36652,"hostname":"Pavilion15","err":{"type":"ReferenceError","message":"Cannot access 'user' before initialization","stack":"ReferenceError: Cannot access 'user' before initialization\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:58:25\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:47:12)"},"msg":"Cannot access 'user' before initialization"}
+{"level":40,"time":1679436761529,"pid":36652,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436761529,"pid":36652,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679436761532,"pid":36652,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436761532,"pid":36652,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679436761535,"pid":36652,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436761535,"pid":36652,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":50,"time":1679436769267,"pid":36332,"hostname":"Pavilion15","err":{"type":"ReferenceError","message":"Cannot access 'user' before initialization","stack":"ReferenceError: Cannot access 'user' before initialization\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:58:25\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:47:12)"},"msg":"Cannot access 'user' before initialization"}
+{"level":50,"time":1679436773054,"pid":36332,"hostname":"Pavilion15","err":{"type":"ReferenceError","message":"Cannot access 'user' before initialization","stack":"ReferenceError: Cannot access 'user' before initialization\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:58:25\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:47:12)"},"msg":"Cannot access 'user' before initialization"}
+{"level":50,"time":1679436813476,"pid":7012,"hostname":"Pavilion15","err":{"type":"CastError","message":"Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\"","stack":"CastError: Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\"\n    at ObjectId.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schema\\objectid.js:248:11)\n    at ObjectId.SchemaType.applySetters (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1613:15)\n    at cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast.js:290:34)\n    at model.Query.Query.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4791:12)\n    at model.Query.Query._castConditions (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2177:10)\n    at model.Query._findOne (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2465:8)\n    at model.Query.exec (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4321:28)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:61:18","stringValue":"\"{ user: '641a25bf302d8d836a24a0e7' }\"","kind":"ObjectId","value":{"user":"641a25bf302d8d836a24a0e7"},"path":"_id","reason":{"type":"BSONError","message":"Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer","stack":"BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n    at new ObjectId (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\bson\\lib\\bson.cjs:2014:23)\n    at castObjectId (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast\\objectid.js:25:12)\n    at ObjectId.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schema\\objectid.js:246:12)\n    at ObjectId.SchemaType.applySetters (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1613:15)\n    at cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast.js:290:34)\n    at model.Query.Query.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4791:12)\n    at model.Query.Query._castConditions (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2177:10)\n    at model.Query._findOne (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2465:8)\n    at model.Query.exec (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4321:28)"},"valueType":"Object"},"msg":"Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\""}
+{"level":50,"time":1679436815798,"pid":7012,"hostname":"Pavilion15","err":{"type":"CastError","message":"Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\"","stack":"CastError: Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\"\n    at ObjectId.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schema\\objectid.js:248:11)\n    at ObjectId.SchemaType.applySetters (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1613:15)\n    at cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast.js:290:34)\n    at model.Query.Query.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4791:12)\n    at model.Query.Query._castConditions (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2177:10)\n    at model.Query._findOne (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2465:8)\n    at model.Query.exec (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4321:28)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:61:18","stringValue":"\"{ user: '641a25bf302d8d836a24a0e7' }\"","kind":"ObjectId","value":{"user":"641a25bf302d8d836a24a0e7"},"path":"_id","reason":{"type":"BSONError","message":"Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer","stack":"BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n    at new ObjectId (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\bson\\lib\\bson.cjs:2014:23)\n    at castObjectId (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast\\objectid.js:25:12)\n    at ObjectId.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schema\\objectid.js:246:12)\n    at ObjectId.SchemaType.applySetters (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1613:15)\n    at cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast.js:290:34)\n    at model.Query.Query.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4791:12)\n    at model.Query.Query._castConditions (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2177:10)\n    at model.Query._findOne (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2465:8)\n    at model.Query.exec (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4321:28)"},"valueType":"Object"},"msg":"Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\""}
+{"level":50,"time":1679436853995,"pid":4116,"hostname":"Pavilion15","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'user')","stack":"TypeError: Cannot read properties of undefined (reading 'user')\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:59:29\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:47:12)"},"msg":"Cannot read properties of undefined (reading 'user')"}
+{"level":50,"time":1679436867000,"pid":35828,"hostname":"Pavilion15","err":{"type":"TypeError","message":"Cannot read properties of null (reading 'username')","stack":"TypeError: Cannot read properties of null (reading 'username')\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:64:22\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"},"msg":"Cannot read properties of null (reading 'username')"}
+{"level":50,"time":1679436909815,"pid":27368,"hostname":"Pavilion15","err":{"type":"TypeError","message":"Cannot read properties of null (reading 'username')","stack":"TypeError: Cannot read properties of null (reading 'username')\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:64:22\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"},"msg":"Cannot read properties of null (reading 'username')"}
+{"level":50,"time":1679436931796,"pid":33980,"hostname":"Pavilion15","err":{"type":"CastError","message":"Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\"","stack":"CastError: Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\"\n    at ObjectId.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schema\\objectid.js:248:11)\n    at ObjectId.SchemaType.applySetters (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1613:15)\n    at cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast.js:290:34)\n    at model.Query.Query.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4791:12)\n    at model.Query.Query._castConditions (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2177:10)\n    at model.Query._findOne (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2465:8)\n    at model.Query.exec (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4321:28)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:61:18","stringValue":"\"{ user: '641a25bf302d8d836a24a0e7' }\"","kind":"ObjectId","value":{"user":"641a25bf302d8d836a24a0e7"},"path":"_id","reason":{"type":"BSONError","message":"Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer","stack":"BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n    at new ObjectId (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\bson\\lib\\bson.cjs:2014:23)\n    at castObjectId (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast\\objectid.js:25:12)\n    at ObjectId.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schema\\objectid.js:246:12)\n    at ObjectId.SchemaType.applySetters (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1613:15)\n    at cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast.js:290:34)\n    at model.Query.Query.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4791:12)\n    at model.Query.Query._castConditions (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2177:10)\n    at model.Query._findOne (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2465:8)\n    at model.Query.exec (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4321:28)"},"valueType":"Object"},"msg":"Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\""}
+{"level":40,"time":1679436983871,"pid":33836,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436983871,"pid":33836,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679436994282,"pid":33836,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679436994282,"pid":33836,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679437004720,"pid":33836,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437004720,"pid":33836,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679437010416,"pid":33836,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437010416,"pid":33836,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679437020857,"pid":33836,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437020857,"pid":33836,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679437027877,"pid":36196,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437027878,"pid":36196,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":50,"time":1679437037863,"pid":36196,"hostname":"Pavilion15","err":{"type":"CastError","message":"Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\"","stack":"CastError: Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\"\n    at ObjectId.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schema\\objectid.js:248:11)\n    at ObjectId.SchemaType.applySetters (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1613:15)\n    at cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast.js:290:34)\n    at model.Query.Query.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4791:12)\n    at model.Query.Query._castConditions (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2177:10)\n    at model.Query._findOne (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2465:8)\n    at model.Query.exec (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4321:28)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:61:18","stringValue":"\"{ user: '641a25bf302d8d836a24a0e7' }\"","kind":"ObjectId","value":{"user":"641a25bf302d8d836a24a0e7"},"path":"_id","reason":{"type":"BSONError","message":"Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer","stack":"BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n    at new ObjectId (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\bson\\lib\\bson.cjs:2014:23)\n    at castObjectId (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast\\objectid.js:25:12)\n    at ObjectId.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schema\\objectid.js:246:12)\n    at ObjectId.SchemaType.applySetters (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1613:15)\n    at cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast.js:290:34)\n    at model.Query.Query.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4791:12)\n    at model.Query.Query._castConditions (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2177:10)\n    at model.Query._findOne (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2465:8)\n    at model.Query.exec (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4321:28)"},"valueType":"Object"},"msg":"Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\""}
+{"level":40,"time":1679437053797,"pid":36004,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437053797,"pid":36004,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679437064225,"pid":36004,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437064225,"pid":36004,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":50,"time":1679437074215,"pid":33276,"hostname":"Pavilion15","err":{"type":"CastError","message":"Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\"","stack":"CastError: Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\"\n    at ObjectId.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schema\\objectid.js:248:11)\n    at ObjectId.SchemaType.applySetters (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1613:15)\n    at cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast.js:290:34)\n    at model.Query.Query.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4791:12)\n    at model.Query.Query._castConditions (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2177:10)\n    at model.Query._findOne (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2465:8)\n    at model.Query.exec (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4321:28)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:61:18","stringValue":"\"{ user: '641a25bf302d8d836a24a0e7' }\"","kind":"ObjectId","value":{"user":"641a25bf302d8d836a24a0e7"},"path":"_id","reason":{"type":"BSONError","message":"Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer","stack":"BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n    at new ObjectId (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\bson\\lib\\bson.cjs:2014:23)\n    at castObjectId (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast\\objectid.js:25:12)\n    at ObjectId.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schema\\objectid.js:246:12)\n    at ObjectId.SchemaType.applySetters (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1613:15)\n    at cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast.js:290:34)\n    at model.Query.Query.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4791:12)\n    at model.Query.Query._castConditions (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2177:10)\n    at model.Query._findOne (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2465:8)\n    at model.Query.exec (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4321:28)"},"valueType":"Object"},"msg":"Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\""}
+{"level":50,"time":1679437179169,"pid":20840,"hostname":"Pavilion15","err":{"type":"CastError","message":"Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\"","stack":"CastError: Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\"\n    at ObjectId.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schema\\objectid.js:248:11)\n    at ObjectId.SchemaType.applySetters (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1613:15)\n    at cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast.js:290:34)\n    at model.Query.Query.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4791:12)\n    at model.Query.Query._castConditions (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2177:10)\n    at model.Query._findOne (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2465:8)\n    at model.Query.exec (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4321:28)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:61:18","stringValue":"\"{ user: '641a25bf302d8d836a24a0e7' }\"","kind":"ObjectId","value":{"user":"641a25bf302d8d836a24a0e7"},"path":"_id","reason":{"type":"BSONError","message":"Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer","stack":"BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n    at new ObjectId (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\bson\\lib\\bson.cjs:2014:23)\n    at castObjectId (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast\\objectid.js:25:12)\n    at ObjectId.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schema\\objectid.js:246:12)\n    at ObjectId.SchemaType.applySetters (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1613:15)\n    at cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast.js:290:34)\n    at model.Query.Query.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4791:12)\n    at model.Query.Query._castConditions (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2177:10)\n    at model.Query._findOne (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2465:8)\n    at model.Query.exec (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4321:28)"},"valueType":"Object"},"msg":"Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\""}
+{"level":50,"time":1679437197914,"pid":30496,"hostname":"Pavilion15","err":{"type":"CastError","message":"Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\"","stack":"CastError: Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\"\n    at ObjectId.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schema\\objectid.js:248:11)\n    at ObjectId.SchemaType.applySetters (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1613:15)\n    at cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast.js:290:34)\n    at model.Query.Query.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4791:12)\n    at model.Query.Query._castConditions (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2177:10)\n    at model.Query._findOne (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2465:8)\n    at model.Query.exec (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4321:28)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:61:18","stringValue":"\"{ user: '641a25bf302d8d836a24a0e7' }\"","kind":"ObjectId","value":{"user":"641a25bf302d8d836a24a0e7"},"path":"_id","reason":{"type":"BSONError","message":"Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer","stack":"BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n    at new ObjectId (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\bson\\lib\\bson.cjs:2014:23)\n    at castObjectId (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast\\objectid.js:25:12)\n    at ObjectId.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schema\\objectid.js:246:12)\n    at ObjectId.SchemaType.applySetters (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1613:15)\n    at cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast.js:290:34)\n    at model.Query.Query.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4791:12)\n    at model.Query.Query._castConditions (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2177:10)\n    at model.Query._findOne (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2465:8)\n    at model.Query.exec (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4321:28)"},"valueType":"Object"},"msg":"Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\""}
+{"level":50,"time":1679437217370,"pid":26876,"hostname":"Pavilion15","err":{"type":"CastError","message":"Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\"","stack":"CastError: Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\"\n    at ObjectId.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schema\\objectid.js:248:11)\n    at ObjectId.SchemaType.applySetters (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1613:15)\n    at cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast.js:290:34)\n    at model.Query.Query.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4791:12)\n    at model.Query.Query._castConditions (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2177:10)\n    at model.Query._findOne (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2465:8)\n    at model.Query.exec (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4321:28)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:61:18","stringValue":"\"{ user: '641a25bf302d8d836a24a0e7' }\"","kind":"ObjectId","value":{"user":"641a25bf302d8d836a24a0e7"},"path":"_id","reason":{"type":"BSONError","message":"Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer","stack":"BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n    at new ObjectId (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\bson\\lib\\bson.cjs:2014:23)\n    at castObjectId (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast\\objectid.js:25:12)\n    at ObjectId.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schema\\objectid.js:246:12)\n    at ObjectId.SchemaType.applySetters (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1613:15)\n    at cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast.js:290:34)\n    at model.Query.Query.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4791:12)\n    at model.Query.Query._castConditions (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2177:10)\n    at model.Query._findOne (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2465:8)\n    at model.Query.exec (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4321:28)"},"valueType":"Object"},"msg":"Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\""}
+{"level":50,"time":1679437227824,"pid":9780,"hostname":"Pavilion15","err":{"type":"CastError","message":"Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\"","stack":"CastError: Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\"\n    at ObjectId.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schema\\objectid.js:248:11)\n    at ObjectId.SchemaType.applySetters (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1613:15)\n    at cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast.js:290:34)\n    at model.Query.Query.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4791:12)\n    at model.Query.Query._castConditions (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2177:10)\n    at model.Query._findOne (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2465:8)\n    at model.Query.exec (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4321:28)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:61:18","stringValue":"\"{ user: '641a25bf302d8d836a24a0e7' }\"","kind":"ObjectId","value":{"user":"641a25bf302d8d836a24a0e7"},"path":"_id","reason":{"type":"BSONError","message":"Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer","stack":"BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n    at new ObjectId (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\bson\\lib\\bson.cjs:2014:23)\n    at castObjectId (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast\\objectid.js:25:12)\n    at ObjectId.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schema\\objectid.js:246:12)\n    at ObjectId.SchemaType.applySetters (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1613:15)\n    at cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast.js:290:34)\n    at model.Query.Query.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4791:12)\n    at model.Query.Query._castConditions (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2177:10)\n    at model.Query._findOne (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2465:8)\n    at model.Query.exec (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4321:28)"},"valueType":"Object"},"msg":"Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\""}
+{"level":50,"time":1679437232117,"pid":26948,"hostname":"Pavilion15","err":{"type":"CastError","message":"Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\"","stack":"CastError: Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\"\n    at ObjectId.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schema\\objectid.js:248:11)\n    at ObjectId.SchemaType.applySetters (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1613:15)\n    at cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast.js:290:34)\n    at model.Query.Query.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4791:12)\n    at model.Query.Query._castConditions (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2177:10)\n    at model.Query._findOne (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2465:8)\n    at model.Query.exec (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4321:28)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:61:18","stringValue":"\"{ user: '641a25bf302d8d836a24a0e7' }\"","kind":"ObjectId","value":{"user":"641a25bf302d8d836a24a0e7"},"path":"_id","reason":{"type":"BSONError","message":"Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer","stack":"BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer\n    at new ObjectId (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\bson\\lib\\bson.cjs:2014:23)\n    at castObjectId (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast\\objectid.js:25:12)\n    at ObjectId.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schema\\objectid.js:246:12)\n    at ObjectId.SchemaType.applySetters (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1202:12)\n    at ObjectId.SchemaType.castForQuery (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\schematype.js:1613:15)\n    at cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\cast.js:290:34)\n    at model.Query.Query.cast (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4791:12)\n    at model.Query.Query._castConditions (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2177:10)\n    at model.Query._findOne (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:2465:8)\n    at model.Query.exec (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\mongoose\\lib\\query.js:4321:28)"},"valueType":"Object"},"msg":"Cast to ObjectId failed for value \"{ user: '641a25bf302d8d836a24a0e7' }\" (type Object) at path \"_id\" for model \"user\""}
+{"level":40,"time":1679437252798,"pid":34020,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437252798,"pid":34020,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679437252913,"pid":34020,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437252913,"pid":34020,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679437253141,"pid":34020,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437253141,"pid":34020,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679437253193,"pid":34020,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437253193,"pid":34020,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679437253308,"pid":34020,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437253308,"pid":34020,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679437258820,"pid":36620,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437258821,"pid":36620,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679437259095,"pid":36620,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437259095,"pid":36620,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679437259098,"pid":36620,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437259098,"pid":36620,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679437264723,"pid":36620,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437264723,"pid":36620,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679437264727,"pid":36620,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437264728,"pid":36620,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679437264734,"pid":36620,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437264734,"pid":36620,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679437265075,"pid":36620,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437265075,"pid":36620,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679437265120,"pid":36620,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437265120,"pid":36620,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679437265123,"pid":36620,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437265123,"pid":36620,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679437265231,"pid":36620,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437265231,"pid":36620,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679437290262,"pid":36620,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437290262,"pid":36620,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679437290264,"pid":36620,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437290264,"pid":36620,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679437290266,"pid":36620,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437290266,"pid":36620,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679437290575,"pid":36620,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437290576,"pid":36620,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679437290720,"pid":36620,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437290720,"pid":36620,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679437312093,"pid":36004,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437312093,"pid":36004,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679437312391,"pid":36004,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437312391,"pid":36004,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679437312393,"pid":36004,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437312393,"pid":36004,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679437430906,"pid":29768,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437430907,"pid":29768,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679437431215,"pid":29768,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437431215,"pid":29768,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679437431217,"pid":29768,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437431217,"pid":29768,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679437441559,"pid":33500,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437441559,"pid":33500,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679437441812,"pid":33500,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437441812,"pid":33500,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679437441815,"pid":33500,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437441815,"pid":33500,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679437542333,"pid":36264,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437542333,"pid":36264,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679437542630,"pid":36264,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437542631,"pid":36264,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679437542676,"pid":36264,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437542676,"pid":36264,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679437607035,"pid":36752,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437607035,"pid":36752,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679437607341,"pid":36752,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437607341,"pid":36752,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679437607344,"pid":36752,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437607344,"pid":36752,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679437611041,"pid":29628,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437611042,"pid":29628,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679437611333,"pid":29628,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437611333,"pid":29628,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679437611336,"pid":29628,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679437611336,"pid":29628,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":50,"time":1679437707051,"pid":9984,"hostname":"Pavilion15","err":{"type":"ReferenceError","message":"user is not defined","stack":"ReferenceError: user is not defined\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:61:17\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:47:12)"},"msg":"user is not defined"}
+{"level":50,"time":1679437736737,"pid":25140,"hostname":"Pavilion15","err":{"type":"TypeError","message":"Cannot read properties of null (reading 'username')","stack":"TypeError: Cannot read properties of null (reading 'username')\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:62:22\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"},"msg":"Cannot read properties of null (reading 'username')"}
+{"level":50,"time":1679437755521,"pid":4952,"hostname":"Pavilion15","err":{"type":"TypeError","message":"Cannot read properties of null (reading 'username')","stack":"TypeError: Cannot read properties of null (reading 'username')\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:63:22\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"},"msg":"Cannot read properties of null (reading 'username')"}
+{"level":50,"time":1679437834207,"pid":29436,"hostname":"Pavilion15","err":{"type":"ReferenceError","message":"user is not defined","stack":"ReferenceError: user is not defined\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:65:5\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"},"msg":"user is not defined"}
+{"level":50,"time":1679437854788,"pid":29436,"hostname":"Pavilion15","err":{"type":"ReferenceError","message":"user is not defined","stack":"ReferenceError: user is not defined\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:65:5\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"},"msg":"user is not defined"}
+{"level":50,"time":1679437946182,"pid":36076,"hostname":"Pavilion15","err":{"type":"TypeError","message":"Cannot destructure property 'user' of 'req.session.passport.data' as it is undefined.","stack":"TypeError: Cannot destructure property 'user' of 'req.session.passport.data' as it is undefined.\n    at file:///C:/Users/lucia/OneDrive/Escritorio/Coder%20House/Backend/TerceraEntregaFinal/src/routes/index.js:57:13\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\lucia\\OneDrive\\Escritorio\\Coder House\\Backend\\TerceraEntregaFinal\\node_modules\\express\\lib\\router\\index.js:47:12)"},"msg":"Cannot destructure property 'user' of 'req.session.passport.data' as it is undefined."}
+{"level":40,"time":1679440061050,"pid":7576,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679440061050,"pid":7576,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679440062069,"pid":7576,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679440062070,"pid":7576,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679440062278,"pid":7576,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679440062278,"pid":7576,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679440127246,"pid":2488,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679440127246,"pid":2488,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679440128328,"pid":2488,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679440128328,"pid":2488,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679440128633,"pid":2488,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679440128633,"pid":2488,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679440285508,"pid":2488,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679440285508,"pid":2488,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679440285511,"pid":2488,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679440285511,"pid":2488,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679440285512,"pid":2488,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679440285512,"pid":2488,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679440589117,"pid":36700,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679440589117,"pid":36700,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679440589376,"pid":36700,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679440589376,"pid":36700,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679440589379,"pid":36700,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679440589379,"pid":36700,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679441080256,"pid":2032,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441080257,"pid":2032,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679441080517,"pid":2032,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441080517,"pid":2032,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679441080538,"pid":2032,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441080538,"pid":2032,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679441167406,"pid":36640,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441167406,"pid":36640,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679441167686,"pid":36640,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441167686,"pid":36640,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679441167691,"pid":36640,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441167691,"pid":36640,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679441286560,"pid":28904,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441286560,"pid":28904,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679441286829,"pid":28904,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441286829,"pid":28904,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679441286880,"pid":28904,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441286880,"pid":28904,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679441530948,"pid":31844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441530948,"pid":31844,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679441531212,"pid":31844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441531212,"pid":31844,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679441531221,"pid":31844,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441531222,"pid":31844,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679441548506,"pid":31076,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441548506,"pid":31076,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679441548777,"pid":31076,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441548777,"pid":31076,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679441548780,"pid":31076,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441548780,"pid":31076,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679441615653,"pid":28232,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441615653,"pid":28232,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679441615909,"pid":28232,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441615909,"pid":28232,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679441615931,"pid":28232,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441615931,"pid":28232,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679441617092,"pid":28232,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441617092,"pid":28232,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679441857232,"pid":8300,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441857232,"pid":8300,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679441857300,"pid":8300,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441857301,"pid":8300,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679441857467,"pid":8300,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441857467,"pid":8300,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679441857540,"pid":8300,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441857540,"pid":8300,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679441857591,"pid":8300,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679441857591,"pid":8300,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442120368,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442120369,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442120408,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442120408,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442120531,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442120531,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442120726,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442120726,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442120728,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442120728,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442163875,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442163875,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442163887,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442163887,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442164169,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442164169,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442164173,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442164174,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442174986,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442174987,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442174996,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442174996,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442174999,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442174999,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442175262,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442175263,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442190051,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442190051,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442190074,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442190074,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442190086,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442190086,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442190420,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442190420,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442205137,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442205137,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442205185,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442205185,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442205189,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442205189,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442205191,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442205191,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442210464,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442210464,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442210472,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442210472,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442210482,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442210482,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442210489,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442210489,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442244632,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442244632,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442244639,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442244639,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442244642,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442244642,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442244645,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442244645,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442265068,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442265068,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442265084,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442265084,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442265092,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442265092,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442265099,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442265100,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442284814,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442284814,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442284829,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442284829,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442284832,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442284832,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442284834,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442284834,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442284941,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442284941,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442285313,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442285313,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442296648,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442296649,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442296650,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442296650,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442296651,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442296651,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442296655,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442296655,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442311137,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442311137,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442311175,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442311175,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442311177,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442311177,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442311179,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442311179,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442316417,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442316417,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442316419,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442316419,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442316420,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442316420,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442316424,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442316424,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442316537,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442316537,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442316539,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442316539,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442316823,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442316823,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442326000,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442326000,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442326026,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442326026,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442326028,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442326028,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442326029,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442326029,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442351892,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442351892,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442351926,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442351926,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442351927,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442351928,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442351932,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442351932,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442354445,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442354445,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442354482,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442354482,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442354498,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442354498,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442354501,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442354501,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442354618,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442354619,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442354621,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442354621,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442354622,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442354622,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442368866,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442368866,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442368869,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442368870,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442368879,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442368879,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442368881,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442368881,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442384085,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442384085,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442384093,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442384093,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442384098,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442384098,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442384109,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442384109,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442414098,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442414098,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442414134,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442414134,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442414136,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442414136,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442414138,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442414138,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442423359,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442423359,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442423360,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442423360,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442423367,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442423367,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442423369,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442423369,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442447140,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442447141,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442447142,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442447142,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442447158,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442447158,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442447166,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442447166,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442470105,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442470105,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442470110,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442470110,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442470112,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442470112,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442470113,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442470114,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442485066,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442485066,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442485069,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442485069,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442485074,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442485074,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442485080,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442485080,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442492878,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442492878,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442492883,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442492883,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442492887,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442492887,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442492892,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442492892,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442511853,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442511853,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442511860,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442511860,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442511875,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442511875,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442511923,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442511923,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442511971,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442511971,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442526527,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442526527,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442526531,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442526531,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442526562,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442526562,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442526564,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442526564,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442542147,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442542147,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442542150,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442542150,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442542189,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442542189,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442542190,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442542190,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442565680,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442565680,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679442565707,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442565707,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442565710,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442565710,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679442565713,"pid":35332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442565713,"pid":35332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442787466,"pid":28196,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442787466,"pid":28196,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679442787767,"pid":28196,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442787767,"pid":28196,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679442787784,"pid":28196,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679442787784,"pid":28196,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679443777212,"pid":34012,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679443777212,"pid":34012,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679443777429,"pid":34012,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679443777429,"pid":34012,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679443777467,"pid":34012,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679443777467,"pid":34012,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679446410630,"pid":34012,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679446410630,"pid":34012,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679446410895,"pid":34012,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679446410895,"pid":34012,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679446410897,"pid":34012,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679446410897,"pid":34012,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679447166544,"pid":33448,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447166544,"pid":33448,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679447166834,"pid":33448,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447166834,"pid":33448,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679447166847,"pid":33448,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447166847,"pid":33448,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679447297801,"pid":33448,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447297801,"pid":33448,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679447297812,"pid":33448,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447297812,"pid":33448,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679447297924,"pid":33448,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447297924,"pid":33448,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679447298219,"pid":33448,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447298219,"pid":33448,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679447298228,"pid":33448,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447298228,"pid":33448,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679447341736,"pid":7224,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447341736,"pid":7224,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679447341920,"pid":7224,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447341921,"pid":7224,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679447342020,"pid":7224,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447342020,"pid":7224,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679447342047,"pid":7224,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447342047,"pid":7224,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679447394683,"pid":27292,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447394683,"pid":27292,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679447394917,"pid":27292,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447394917,"pid":27292,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679447394937,"pid":27292,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447394937,"pid":27292,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679447395849,"pid":27292,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447395849,"pid":27292,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679447395856,"pid":27292,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447395856,"pid":27292,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679447395984,"pid":27292,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447395984,"pid":27292,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679447396153,"pid":27292,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447396153,"pid":27292,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679447396180,"pid":27292,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447396180,"pid":27292,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679447530655,"pid":29448,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447530655,"pid":29448,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679447530924,"pid":29448,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447530924,"pid":29448,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679447530935,"pid":29448,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447530935,"pid":29448,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679447531821,"pid":29448,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447531821,"pid":29448,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679447531823,"pid":29448,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447531823,"pid":29448,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679447531840,"pid":29448,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447531840,"pid":29448,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679447532100,"pid":29448,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447532100,"pid":29448,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679447532208,"pid":29448,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447532208,"pid":29448,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679447532213,"pid":29448,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447532213,"pid":29448,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679447532220,"pid":29448,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447532220,"pid":29448,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679447891157,"pid":31896,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447891158,"pid":31896,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679447891442,"pid":31896,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447891442,"pid":31896,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679447891445,"pid":31896,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447891445,"pid":31896,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679447901825,"pid":40940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447901825,"pid":40940,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679447902225,"pid":40940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447902225,"pid":40940,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679447902228,"pid":40940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447902228,"pid":40940,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679447905195,"pid":40940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447905195,"pid":40940,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679447905214,"pid":40940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447905214,"pid":40940,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679447905560,"pid":40940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447905560,"pid":40940,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679447905561,"pid":40940,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679447905562,"pid":40940,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
