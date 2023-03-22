@@ -48,7 +48,7 @@ const registerStrategy = new LocalStrategy(
         phone: req.body.phone,
         address: req.body.address,
         age: req.body.age,
-        photo: req.file,
+        photo: req.file.filename,
       };
 
       const createdUser = await User.create(newUser);

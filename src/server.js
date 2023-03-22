@@ -58,6 +58,7 @@ if (cluster.isPrimary && args.mode.toUpperCase() === "CLUSTER") {
 
   app.use(urlencoded({ extended: true }));
   app.use(express.static("src/uploads"));
+
   // definimos la configuracion HBS
   app.engine(
     "hbs",
