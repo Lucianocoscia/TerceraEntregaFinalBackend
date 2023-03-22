@@ -112,7 +112,7 @@ router.post("/cart/finish/:cartId", async (req, res) => {
     // console.log(cart);
 
     SendMails.sendMailCart({ cart, user });
-    // sendMessage();
+    sendMessage();
     res.sendStatus(200);
   } catch (err) {
     console.log(err);
