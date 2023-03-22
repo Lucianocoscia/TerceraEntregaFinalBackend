@@ -9,7 +9,7 @@ import { Product } from "../table/models/product.model.js";
 import sendMessage from "../twilio.js";
 import upload from "../lib/multer.js";
 import ContenedorMongo from "../crud/apiMongo.js";
-
+import { SendMails } from "../nodemailer.js";
 const router = Router();
 const productApi = new ContenedorMongo(Product);
 // ruta de login
@@ -105,10 +105,14 @@ router.post("/cart/:productId", async (req, res) => {
 
 router.post("/cart/finish/:cartId", async (req, res) => {
   try {
+    const { user } = req.session.passport;
     const cart = await Cart.findOne({
       username: req.session.passport.user.username,
     });
-    sendMessage();
+    // console.log(cart);
+
+    SendMails.sendMailCart({ cart, user });
+    // sendMessage();
     res.sendStatus(200);
   } catch (err) {
     console.log(err);

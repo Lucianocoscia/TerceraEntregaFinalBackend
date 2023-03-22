@@ -1180,3 +1180,109 @@
 {"level":40,"time":1679447905560,"pid":40940,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
 {"level":40,"time":1679447905561,"pid":40940,"hostname":"Pavilion15","msg":"Ruta no valida"}
 {"level":40,"time":1679447905562,"pid":40940,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679498463848,"pid":2200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498463849,"pid":2200,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679498463902,"pid":2200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498463902,"pid":2200,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679498464075,"pid":2200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498464075,"pid":2200,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679498464121,"pid":2200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498464121,"pid":2200,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679498464124,"pid":2200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498464124,"pid":2200,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679498464265,"pid":2200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498464265,"pid":2200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679498468769,"pid":2200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498468770,"pid":2200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679498502801,"pid":5796,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498502802,"pid":5796,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679498502830,"pid":5796,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498502830,"pid":5796,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679498503050,"pid":5796,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498503050,"pid":5796,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679498503060,"pid":5796,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498503060,"pid":5796,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679498503167,"pid":5796,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498503167,"pid":5796,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679498505662,"pid":5796,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498505662,"pid":5796,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679498505681,"pid":5796,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498505681,"pid":5796,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679498505951,"pid":5796,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498505951,"pid":5796,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679498505958,"pid":5796,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498505958,"pid":5796,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679498506071,"pid":5796,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498506071,"pid":5796,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679498511485,"pid":5796,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498511485,"pid":5796,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679498629754,"pid":23124,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498629754,"pid":23124,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679498629798,"pid":23124,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498629798,"pid":23124,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679498629985,"pid":23124,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498629985,"pid":23124,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679498629988,"pid":23124,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498629988,"pid":23124,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679498630105,"pid":23124,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498630105,"pid":23124,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679498633353,"pid":23124,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498633353,"pid":23124,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679498733472,"pid":9920,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498733473,"pid":9920,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679498733513,"pid":9920,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498733513,"pid":9920,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679498733715,"pid":9920,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498733716,"pid":9920,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679498733736,"pid":9920,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498733736,"pid":9920,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679498733845,"pid":9920,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498733845,"pid":9920,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679498739919,"pid":9920,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498739919,"pid":9920,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679498793861,"pid":20828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498793861,"pid":20828,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679498793920,"pid":20828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498793920,"pid":20828,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679498794147,"pid":20828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498794147,"pid":20828,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679498794150,"pid":20828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498794150,"pid":20828,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679498794258,"pid":20828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498794258,"pid":20828,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679498797135,"pid":20828,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498797135,"pid":20828,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679498898079,"pid":8708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498898079,"pid":8708,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679498898133,"pid":8708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498898133,"pid":8708,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679498898382,"pid":8708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498898382,"pid":8708,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679498898387,"pid":8708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498898387,"pid":8708,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679498898498,"pid":8708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498898498,"pid":8708,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679498901070,"pid":8708,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498901070,"pid":8708,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679498984319,"pid":21332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498984320,"pid":21332,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679498984365,"pid":21332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498984365,"pid":21332,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679498984595,"pid":21332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498984595,"pid":21332,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679498984601,"pid":21332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498984601,"pid":21332,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679498984721,"pid":21332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498984721,"pid":21332,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679498986724,"pid":21332,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679498986724,"pid":21332,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1679499011360,"pid":10620,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679499011361,"pid":10620,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1679499011662,"pid":10620,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679499011662,"pid":10620,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
+{"level":40,"time":1679499011664,"pid":10620,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679499011665,"pid":10620,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1679499011667,"pid":10620,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679499011667,"pid":10620,"hostname":"Pavilion15","method":"GET","url":"/login/frenourl"}
+{"level":40,"time":1679499012066,"pid":10620,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1679499012066,"pid":10620,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}

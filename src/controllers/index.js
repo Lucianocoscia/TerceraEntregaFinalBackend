@@ -2,14 +2,14 @@ import util from "util";
 import { fork } from "child_process";
 import args from "../yargs.js";
 import logger from "../lib/logger.js";
-import sendMail from "../nodemailer.js";
+import { SendMails } from "../nodemailer.js";
 //realizar el getLoginMail usando nodemailer
 //EJEMPLO
 // ------------------------------------
 const getLoginMail = (req, res) => {
   if (req.isAuthenticated()) {
     const user = req.user;
-    sendMail(
+    SendMails.sendMail(
       user.username,
       user.firstname,
       user.lastname,

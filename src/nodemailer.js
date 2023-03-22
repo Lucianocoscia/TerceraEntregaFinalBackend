@@ -43,5 +43,30 @@ const sendMail = async (
     console.log(err);
   }
 };
+const sendMailCart = async ({ cart, user }) => {
+  try {
+    const mailOptions = {
+      from: "lucianocoscia5@gmail.com",
+      to: process.env.AUTH_MAIL,
+      subject: `Nuevo pedido de ${user.username} con email ${user.email}`,
+      html: `
+          ${cart.products.map((product, index) => {
+            return `
+            <h2 style="color: red;">Titulo del producto ${index}: ${product.title}</h2>                                             
+            <h3 style="color: blue;">Precio del producto ${index}: ${product.price}</h3>                                             
+            <h5 style="color: green;">Image o URL del producto ${index}: ${product.thumbnail}</h5>                                             
+            
+                    `;
+          })}
+           <ul>
+              
+           </ul>`,
+    };
+    const info = await trasporter.sendMail(mailOptions);
+    console.log(info);
+  } catch (err) {
+    console.log(err);
+  }
+};
 
-export default sendMail;
+export const SendMails = { sendMail, sendMailCart };
