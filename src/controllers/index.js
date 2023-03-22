@@ -3,9 +3,7 @@ import { fork } from "child_process";
 import args from "../yargs.js";
 import logger from "../lib/logger.js";
 import { SendMails } from "../nodemailer.js";
-//realizar el getLoginMail usando nodemailer
-//EJEMPLO
-// ------------------------------------
+
 const getLoginMail = (req, res) => {
   if (req.isAuthenticated()) {
     const user = req.user;
@@ -55,13 +53,12 @@ const getLogin = (req, res) => {
 const getRegister = (req, res) => {
   if (req.isAuthenticated()) {
     const user = req.session.user;
-    console.log("user", user);
-    //imagen de registro
-    const image = req.file;
+    // //imagen de registro
+    const image = req.file.filename;
     res.locals.image = `${image}`;
 
     logger.info("Get register");
-    logger.info("image", image);
+    console.log("image", image);
 
     return res.render("bienvenida", {
       usuario: user.username,

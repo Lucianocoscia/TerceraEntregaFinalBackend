@@ -56,12 +56,12 @@ router.get("/login/productos", async (req, res) => {
   try {
     const { user } = req.session.passport;
     // logger.info(user);
-    console.log(user);
+    // console.log(user);
 
     const userCart = await Cart.findOne({
       username: user.username,
     }).lean();
-
+    // console.log(userCart);
     if (!user) {
       return res.redirect("/login");
     }
