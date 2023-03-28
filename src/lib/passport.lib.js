@@ -1,8 +1,8 @@
 // PASSPORT STRATEGYS
 import bcrypt from "bcrypt";
 import LocalStrategy from "passport-local";
-import { User } from "../table/models/user.model.js";
-import { Cart } from "../table/models/cart.model.js";
+import { User } from "../models/user.model.js";
+import { Cart } from "../models/cart.model.js";
 import logger from "./logger.js";
 
 const hashPasword = (password) => {

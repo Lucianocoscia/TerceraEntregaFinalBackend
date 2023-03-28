@@ -5,11 +5,11 @@ import { fileURLToPath } from "url";
 import { engine } from "express-handlebars"; // importo hbs
 import router from "./routes/index.js"; //importo rutas
 import { Server as IOServer } from "socket.io"; //importo socket
-import Contenedor from "./crud/api.js"; //importo contendor con clase q maneja todo el crud
+import Contenedor from "./daos/api.js"; //importo contendor con clase q maneja todo el crud
 
 //importo configs de connections
 import configSqlite3 from "./db/sqlite.js";
-import configMYSQL from "./db/mysql.js";
+import config from "./config/config.js";
 
 //  COmienza config para loguear con mongo y session
 import MongoStore from "connect-mongo";
@@ -19,7 +19,7 @@ import mongoose from "mongoose";
 //desafio passport
 import passport from "passport";
 import { passportStrategies } from "./lib/passport.lib.js";
-import { User } from "./table/models/user.model.js"; // importo el modelo de mongodb
+import { User } from "./models/user.model.js"; // importo el modelo de mongodb
 import { authMiddlewares } from "./middleware/invalidURL.middleware.js"; // importo middlewares
 // import generateFaker from "./faker.js";
 
@@ -33,8 +33,8 @@ import cluster from "cluster";
 //pino
 import logger from "./lib/logger.js";
 //contenedor mongo con product
-import ContenedorMongo from "./crud/apiMongo.js";
-import { Product } from "./table/models/product.model.js";
+import ContenedorMongo from "./daos/DaoMongo.js";
+import { Product } from "./models/product.model.js";
 
 const cpus = os.cpus();
 
@@ -129,7 +129,7 @@ if (cluster.isPrimary && args.mode.toUpperCase() === "CLUSTER") {
 
   logger.info("database connected");
 
-  const expressServer = app.listen(args.puerto || process.env.PORT, () => {
+  const expressServer = app.listen(args.puerto || config.port, () => {
     logger.info(`Server listening on port ${args.puerto}`);
   });
 

@@ -1,8 +1,9 @@
-import util from "util";
+// import util from "util";
 import { fork } from "child_process";
 import args from "../yargs.js";
 import logger from "../lib/logger.js";
 import { SendMails } from "../nodemailer.js";
+import generateFaker from "../faker.js";
 
 const getLoginMail = (req, res) => {
   if (req.isAuthenticated()) {
@@ -89,6 +90,26 @@ const logOut = (req, res) => {
   });
 };
 
+const getLoginAdmin = async (req, res) => {
+  try {
+    const { user } = req.session.passport;
+    if (!user) {
+      return res.redirect("/login");
+    }
+    res.render("form", { items: await productApi.getAll() });
+  } catch (err) {
+    logger.error(err);
+  }
+};
+
+const faker = async (req, res) => {
+  try {
+    res.render("test", { items: generateFaker() });
+  } catch (err) {
+    logger.error(err);
+  }
+};
+
 // usando objeto process y fork
 const getInfo = (req, res) => {
   res.render("info", {
@@ -116,6 +137,7 @@ const getRandom = (req, res) => {
 
 export const authController = {
   getLoginMail,
+  getLoginAdmin,
   getLogin,
   getRegister,
   getLoginFailiure,
@@ -123,4 +145,5 @@ export const authController = {
   logOut,
   getInfo,
   getRandom,
+  faker,
 };

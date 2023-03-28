@@ -1,5 +1,6 @@
 //middleware a partir de utilizacion de paassport
 import logger from "../lib/logger.js";
+
 const invalidUrl = (req, res, next) => {
   logger.warn("Ruta no valida");
   logger.warn({
