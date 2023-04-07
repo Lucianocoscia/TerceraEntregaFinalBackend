@@ -5,7 +5,7 @@ import { fileURLToPath } from "url";
 import { engine } from "express-handlebars"; // importo hbs
 import router from "./routes/index.js"; //importo rutas
 import { Server as IOServer } from "socket.io"; //importo socket
-import Contenedor from "./daos/api.js"; //importo contendor con clase q maneja todo el crud
+import Contenedor from "./classes/api.js"; //importo contendor con clase q maneja todo el crud
 
 //importo configs de connections
 import configSqlite3 from "./db/sqlite.js";
@@ -32,9 +32,9 @@ import cluster from "cluster";
 
 //pino
 import logger from "./lib/logger.js";
-//contenedor mongo con product
-import ContenedorMongo from "./daos/DaoMongo.js";
-import { Product } from "./models/product.model.js";
+
+//persistencia factory
+import ProductDaoFactory from "./daos/productDaoFactory.js";
 
 const cpus = os.cpus();
 
@@ -135,7 +135,7 @@ if (cluster.isPrimary && args.mode.toUpperCase() === "CLUSTER") {
 
   const io = new IOServer(expressServer);
 
-  const productApi = new ContenedorMongo(Product); // product api es un contenedor para los productos
+  const productApi = ProductDaoFactory.getDao(config.db); // product api es un contenedor para los productos
 
   const messageApi = new Contenedor(configSqlite3, "message"); // messageapi es un contenedor para los mensajes
 

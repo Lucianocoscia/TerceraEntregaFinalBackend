@@ -1,6 +1,6 @@
 import { Router } from "express";
 import compression from "compression";
-import { authController } from "../controllers/index.js";
+import { authController } from "../controllers/user.controller.js";
 
 const router = Router();
 

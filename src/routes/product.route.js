@@ -1,10 +1,9 @@
 import { Router } from "express";
-import { Product } from "../table/models/product.model.js";
+import { Product } from "../models/product.model.js";
 
 import { authController } from "../controllers/user.controller.js";
 import { cartController } from "../controllers/cart.controller.js";
-import ContenedorMongo from "../daos/DaoMongo.js";
-import { cartController } from "../controllers/cart.controller.js";
+import ContenedorMongo from "../classes/ContenedorMongo.js";
 
 const router = Router();
 const productApi = new ContenedorMongo(Product);

@@ -2,8 +2,13 @@
 import bcrypt from "bcrypt";
 import LocalStrategy from "passport-local";
 import { User } from "../models/user.model.js";
-import { Cart } from "../models/cart.model.js";
+// import { Cart } from "../models/cart.model.js";
 import logger from "./logger.js";
+
+//persistencia
+import CartDaoFactory from "../daos/cartDaoFactory.js";
+import config from "../config/config.js";
+const cartDao = CartDaoFactory.getDao(config.db);
 
 const hashPasword = (password) => {
   return bcrypt.hashSync(password, bcrypt.genSaltSync(10));
@@ -53,7 +58,7 @@ const registerStrategy = new LocalStrategy(
 
       const createdUser = await User.create(newUser);
 
-      await Cart.create({ username, products: [] });
+      await cartDao.create({ username, products: [] });
 
       req.user = createdUser;
 

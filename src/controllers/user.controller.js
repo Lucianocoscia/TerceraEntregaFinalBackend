@@ -2,8 +2,12 @@
 import { fork } from "child_process";
 import args from "../yargs.js";
 import logger from "../lib/logger.js";
-import { SendMails } from "../nodemailer.js";
-import generateFaker from "../faker.js";
+import { SendMails } from "../services/nodemailer.js";
+import generateFaker from "../services/faker.js";
+import ContenedorMongo from "../classes/ContenedorMongo.js";
+import { Product } from "../models/product.model.js";
+
+const productApi = new ContenedorMongo(Product);
 
 const getLoginMail = (req, res) => {
   if (req.isAuthenticated()) {
